@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Localdisk/static/css/main.12f3f813.css",
+    "main.js": "/React-Localdisk/static/js/main.20a43b96.js",
+    "static/js/453.332153f3.chunk.js": "/React-Localdisk/static/js/453.332153f3.chunk.js",
+    "index.html": "/React-Localdisk/index.html",
+    "main.12f3f813.css.map": "/React-Localdisk/static/css/main.12f3f813.css.map",
+    "main.20a43b96.js.map": "/React-Localdisk/static/js/main.20a43b96.js.map",
+    "453.332153f3.chunk.js.map": "/React-Localdisk/static/js/453.332153f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f3f813.css",
+    "static/js/main.20a43b96.js"
+  ]
+}
